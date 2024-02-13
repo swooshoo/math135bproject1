@@ -16,3 +16,4 @@ Absolute error for Composite Gaussian Quadrature Rule: 0.0004991065645711945
 2  Composite Gaussian Quadrature Rule  0.264740    4.991066e-04
 The best estimate is Composite Simpson's Rule with an absolute error of 7.858303285868118e-08
 The worst estimate is Composite Gaussian Quadrature Rule with an absolute error of 0.0004991065645711945
+
